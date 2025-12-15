@@ -1,0 +1,187 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'fontone';
+    src: url("../src/components/fonts/font1.woff2") format("woff2");
+}
+@font-face {
+    font-family: 'fonttwo';
+    src: url("../src/components/fonts/font2.woff2") format("woff2");
+}
+
+html{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.moveX{
+    animation-name: moveAnimation;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.moveLink{
+    opacity: 0;
+    transition: all ease 0.3s;
+    overflow: hidden;
+}
+
+.link:hover .moveLink{
+    opacity: 1;
+}
+
+@keyframes moveAnimation {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+
+
+/* ==================================== */
+/* section3 */
+.stack-container {
+  position: relative;
+}
+
+.panel {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+  color: white;
+  z-index: 1;
+}
+
+/* Panel that should scroll normally (no sticky snap) */
+.panel--flow {
+  position: relative;
+  top: auto;
+  height: auto;
+  display: block;
+  justify-content: initial;
+  align-items: initial;
+  font-size: inherit;
+}
+
+/* ================================== */
+
+.moving_text {
+  position: absolute;
+  left: 0;
+  top: 17%;
+  width: 200%;            /* track spans two copies */
+  display: flex;
+  gap: 40vw;                 /* no gap for seamless join */
+  animation: marquee 15s linear infinite;
+}
+
+.moving-headings {
+  flex: 0 0 50%;          /* each heading occupies half of track */
+}
+
+@keyframes marquee {
+  0%   { transform: translateX(60%); }
+  100% { transform: translateX(-250%); } 
+}
+.moving_text2 {
+  position: absolute;
+  left: 0;
+  top: 60%;
+  width: 200%;            
+  display: flex;
+  gap: 40vw;                
+  animation: marquee2 15s linear infinite;
+}
+/* 
+.moving-headings2 {
+  flex: 0 0 50%;         
+} */
+.small_text{
+    color: white;
+    /* transform: translateX(-120%); */
+    transform: translateY(60%);
+    
+}
+.pair_text{
+    display: flex;
+    width: 100%;
+    gap: 5vw;
+}
+
+@keyframes marquee2 {
+  0%   { transform: translateX(-300%); }
+  100% { transform: translateX(120%); } 
+}
+
+/* ========================================================= */
+
+.name_list{
+    opacity: 0;
+    transition: all ease 0.3s;
+    overflow: hidden;
+}
+
+.moveLink{
+    opacity: 0;
+    transition: all ease 0.3s;
+    overflow: hidden;
+}
+
+.list_name {
+  position: relative;
+  overflow: hidden;
+}
+
+.list_name::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 0%;
+  background: #d2fd51;
+  z-index: 0;            
+  transition: height 220ms ease-in-out;
+}
+
+.list_name:hover::before {
+  height: 100%;
+}
+.list_name .text-left,
+.list_name .text-right {
+  position: relative;
+  z-index: 10;           
+}
+/* ===================================================== */
+
+
+.stack-container2 {
+  position: relative;
+}
+
+.panel2 {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+  color: white;
+  z-index: 1;
+}
