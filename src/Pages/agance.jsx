@@ -15,18 +15,17 @@ function Agance() {
   const parentRef = useRef(null)
 
   const imageArray = [
-    "/src/components/images/1.png",
-    "/src/components/images/2.png",
-    "/src/components/images/3.png",
-    "/src/components/images/4.png",
-    "/src/components/images/5.png",
-    "/src/components/images/6.png",
-    "/src/components/images/7.png",
-    "/src/components/images/8.png",
-    "/src/components/images/9.png",
-    "/src/components/images/10.png",
-    "/src/components/images/11.png",
-
+    "/images/1.png",
+    "/images/2.png",
+    "/images/3.png",
+    "/images/4.png",
+    "/images/5.png",
+    "/images/6.png",
+    "/images/7.png",
+    "/images/8.png",
+    "/images/9.png",
+    "/images/10.png",
+    "/images/11.png",
   ]
 
 

@@ -47,24 +47,24 @@ export default function StackedPanels() {
     "Sébastien Roy",
   ];
   const imageArray = [
-    "/src/components/images/1.png",
-    "/src/components/images/2.png",
-    "/src/components/images/3.png",
-    "/src/components/images/4.png",
-    "/src/components/images/5.png",
-    "/src/components/images/6.png",
-    "/src/components/images/7.png",
-    "/src/components/images/8.png",
-    "/src/components/images/9.png",
-    "/src/components/images/10.png",
-    "/src/components/images/11.png",
-    "/src/components/images/15.png",
-    "/src/components/images/12.png",
-    "/src/components/images/13.png",
-    "/src/components/images/15.png",
-    "/src/components/images/14.png",
-    "/src/components/images/15.png",
-    "/src/components/images/4.png",
+    "/images/1.png",
+    "/images/2.png",
+    "/images/3.png",
+    "/images/4.png",
+    "/images/5.png",
+    "/images/6.png",
+    "/images/7.png",
+    "/images/8.png",
+    "/images/9.png",
+    "/images/10.png",
+    "/images/11.png",
+    "/images/15.png",
+    "/images/12.png",
+    "/images/13.png",
+    "/images/15.png",
+    "/images/14.png",
+    "/images/15.png",
+    "/images/4.png",
   ];
 
   const [hoverIdx, setHoverIdx] = useState(null);
@@ -88,7 +88,7 @@ export default function StackedPanels() {
           </div>
           <div className="z-20 h-screen">
             <img
-              src="/src/components/images/8.png"
+              src="/images/8.png"
               className="h-full object-cover w-[32vw] rounded-2xl"
             />
             <div className="moving_text2 z-10   text-[10vw] text-[#D3FD50]">
@@ -117,7 +117,7 @@ export default function StackedPanels() {
           </div>
           <div className="z-20 h-screen">
             <img
-              src="/src/components/images/10.png"
+              src="/images/10.png"
               className="h-full object-cover w-[32vw] rounded-2xl"
             />
             <div className="moving_text2 z-10   text-[10vw] text-[#D3FD50]">

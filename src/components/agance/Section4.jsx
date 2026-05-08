@@ -23,7 +23,7 @@ const Section4 = () => {
             transition={{ duration: 0.2 }}
           >
             <img
-              src="/src/components/images/mainNavImg/projects14.jpg"
+              src="/images/mainNavImg/projects14.jpg"
               className="h-screen  origin-center w-full  hover:scale-[1.05] duration-700 transition-all ease-in-out"
             />
           </motion.div>
@@ -48,7 +48,7 @@ const Section4 = () => {
             transition={{ duration: 0 }}
           >
             <img
-              src="/src/components/images/mainNavImg/projects10.jpg"
+              src="/images/mainNavImg/projects10.jpg"
               className="h-screen  origin-center w-full  hover:scale-[1.05] duration-700 transition-all ease-in-out"
             />
           </motion.div>
@@ -73,7 +73,7 @@ const Section4 = () => {
             transition={{ duration: 0.2 }}
           >
             <img
-              src="/src/components/images/mainNavImg/projects12.jpg"
+              src="/images/mainNavImg/projects12.jpg"
               className="h-screen  origin-center w-full  hover:scale-[1.05] duration-700 transition-all ease-in-out"
             />
           </motion.div>
