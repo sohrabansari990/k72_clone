@@ -1,6 +1,7 @@
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import React, { useContext, useRef } from "react";
+import { createPortal } from "react-dom";
 import { fullNavbarContext } from "../../context/NavContext";
 import Footer from "./Footer";
 import { Link, useLocation } from "react-router-dom";
@@ -94,11 +95,11 @@ const FullScreenNav = () => {
     [clickNav]
   );
 
-  return (
+  return createPortal(
     <div
       ref={fullScreenRef}
       id="fullscreennav"
-      className="fullscreennav hidden text-white overflow-hidden h-screen w-full z-50 absolute"
+      className="fullscreennav hidden text-white overflow-hidden h-screen w-full z-50 fixed inset-0"
     >
       <div className="h-screen w-full fixed">
         <div className="h-full w-full flex">
@@ -337,7 +338,8 @@ const FullScreenNav = () => {
         </div>
         <Footer />
       </div>
-    </div>
+    </div>,
+    document.body
   );
 };
 

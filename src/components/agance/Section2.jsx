@@ -26,7 +26,7 @@ const Section2 = () => {
 
 
 return (
-    <div className="main w-full h-screen text-black  select-none">
+    <div className="main w-full h-auto text-black select-none">
         <div className=" mt-65 w-full flex px-55 justify-center">
             <div >
                 {/* three-column grid: left = title, center = list, right = spacer */}

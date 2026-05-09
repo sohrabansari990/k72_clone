@@ -1,0 +1,138 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e8]:
+    - text: 
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e13]:
+          - heading "Soixan7e Douze" [level=1] [ref=e15]:
+            - text: Soixan7e
+            - text: Douze
+          - paragraph [ref=e17]: Notre curiosité nourrit notre créativité. On reste humbles et on dit non aux gros egos, même le vôtre. Une marque est vivante. Elle a des valeurs, une personnalité, une histoire. Si on oublie ça, on peut faire de bons chiffres à court terme, mais on la tue à long terme. C’est pour ça qu’on s’engage à donner de la perspective, pour bâtir des marques influentes.
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - heading "Expertise" [level=1] [ref=e24]
+            - list [ref=e26]:
+              - listitem [ref=e27]: Stratégie
+              - listitem [ref=e28]: Publicité
+              - listitem [ref=e29]: Branding
+              - listitem [ref=e30]: Design
+              - listitem [ref=e31]: Contenu
+          - generic [ref=e32]:
+            - paragraph [ref=e33]: Nos projets_ naissent dans l’humilité, grandissent dans la curiosité et vivent grâce à la créativité sous toutes ses formes.
+            - paragraph [ref=e34]: Notre création_ bouillonne dans un environnement où le talent a le goût d’exploser. Où on se sent libre d’être la meilleure version de soi-même.
+            - paragraph [ref=e35]: Notre culture_ c’est l’ouverture aux autres. Point. Tout l’équipage participe à bâtir une agence dont on est fiers.
+      - generic [ref=e37]:
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - heading "BEATRICE" [level=1] [ref=e41]
+            - heading "BEATRICE" [level=1] [ref=e42]
+          - generic [ref=e43]:
+            - img [ref=e44]
+            - generic [ref=e45]:
+              - heading "ROUSSIN" [level=1] [ref=e46]
+              - generic [ref=e47]:
+                - heading "ROUSSIN" [level=1] [ref=e48]
+                - heading "STRATEGE" [level=4] [ref=e49]
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - heading "ALEX" [level=1] [ref=e53]
+            - heading "ALEX" [level=1] [ref=e54]
+          - generic [ref=e55]:
+            - img [ref=e56]
+            - generic [ref=e57]:
+              - heading "SAUVAGEAU" [level=1] [ref=e58]
+              - generic [ref=e59]:
+                - heading "SAUVAGEAU" [level=1] [ref=e60]
+                - heading "DIRECTEUR ARTISTIQUE" [level=4] [ref=e61]
+        - generic [ref=e65]:
+          - generic [ref=e66] [cursor=pointer]:
+            - generic [ref=e67]: Directeur principal
+            - generic [ref=e68]: Carl Godbout
+          - generic [ref=e69] [cursor=pointer]:
+            - generic [ref=e70]: Conceptrice-rédactrice
+            - generic [ref=e71]: Camille Brière
+          - generic [ref=e72] [cursor=pointer]:
+            - generic [ref=e73]: Conseillère principale
+            - generic [ref=e74]: Stéphanie Brunelle
+          - generic [ref=e75] [cursor=pointer]:
+            - generic [ref=e76]: VPP et directeur général
+            - generic [ref=e77]: Pierre-Luc Paiement
+          - generic [ref=e78] [cursor=pointer]:
+            - generic [ref=e79]: VPP et directeur général
+            - generic [ref=e80]: Mélanie Laviolette
+          - generic [ref=e81] [cursor=pointer]:
+            - generic [ref=e82]: Directrice de la stratégie
+            - generic [ref=e83]: Michèle Riendeau
+          - generic [ref=e84] [cursor=pointer]:
+            - generic [ref=e85]: Directrice conseil
+            - generic [ref=e86]: Meggie Lavoie
+          - generic [ref=e87] [cursor=pointer]:
+            - generic [ref=e88]: Conseiller
+            - generic [ref=e89]: Philippe Perreault
+          - generic [ref=e90] [cursor=pointer]:
+            - generic [ref=e91]: Conseillère
+            - generic [ref=e92]: Lou Gravel-Jean
+          - generic [ref=e93] [cursor=pointer]:
+            - generic [ref=e94]: Planificateur stratégique principal
+            - generic [ref=e95]: Olivier Roeyaerts
+          - generic [ref=e96] [cursor=pointer]:
+            - generic [ref=e97]: Conseillère
+            - generic [ref=e98]: Hélène Conti
+          - generic [ref=e99] [cursor=pointer]:
+            - generic [ref=e100]: Conseillère principale
+            - generic [ref=e101]: Véronique Demers
+          - generic [ref=e102] [cursor=pointer]:
+            - generic [ref=e103]: Opérations et développement des affaires
+            - generic [ref=e104]: Maëlle Jacot-Descombes
+          - generic [ref=e105] [cursor=pointer]:
+            - generic [ref=e106]: Directrice principale
+            - generic [ref=e107]: Isabelle Beauchemin
+          - generic [ref=e108] [cursor=pointer]:
+            - generic [ref=e109]: Directrice principale
+            - generic [ref=e110]: Olivier Duclos
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112]: Directeur de création adjoint
+            - generic [ref=e113]: Joël Letarte
+          - generic [ref=e114] [cursor=pointer]:
+            - generic [ref=e115]: Directrice de création
+            - generic [ref=e116]: Chantal Chantal
+          - generic [ref=e117] [cursor=pointer]:
+            - generic [ref=e118]: Directeur de création adjoint
+            - generic [ref=e119]: Sébastien Roy
+      - generic [ref=e121]:
+        - img [ref=e125]
+        - img [ref=e129]
+        - img [ref=e133]
+        - generic [ref=e138]:
+          - generic [ref=e139]:
+            - generic [ref=e140]:
+              - heading "FB" [level=1] [ref=e142] [cursor=pointer]
+              - heading "IG" [level=1] [ref=e144] [cursor=pointer]
+              - heading "IN" [level=1] [ref=e146] [cursor=pointer]
+              - heading "BE" [level=1] [ref=e148] [cursor=pointer]
+            - generic [ref=e149] [cursor=pointer]:
+              - heading "CONTACT" [level=1] [ref=e150]
+              - generic [ref=e151]: 
+          - contentinfo [ref=e152]:
+            - generic [ref=e153]:
+              - generic [ref=e154]: 
+              - heading "MONTREAL_07:09:01" [level=1] [ref=e155]
+            - generic [ref=e156]:
+              - link "Politique de confidentialité" [ref=e157] [cursor=pointer]:
+                - /url: ""
+              - link "Avis de confidentialité" [ref=e158] [cursor=pointer]:
+                - /url: ""
+              - link "Rapport éthique" [ref=e159] [cursor=pointer]:
+                - /url: ""
+              - link "Options de consentement" [ref=e160] [cursor=pointer]:
+                - /url: ""
+            - link "RETUR EN HAUT" [ref=e161] [cursor=pointer]:
+              - /url: /
+  - generic [ref=e162]:
+    - generic:
+      - link:
+        - /url: /
+        - img [ref=e164] [cursor=pointer]
+    - generic [ref=e167] [cursor=pointer]:
+      - separator [ref=e168]
+      - separator [ref=e169]
