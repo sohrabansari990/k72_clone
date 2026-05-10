@@ -1,3 +1,6 @@
+<img width="1918" height="915" alt="Screenshot 2026-05-09 170825" src="https://github.com/user-attachments/assets/99155cb2-091f-41f2-96a2-7f42848f1332" />
+
+
 # Agance Creative Experience
 
 A React 19 + Vite site that blends pinned hero shots, marquee typography, and section-based storytelling. GSAP ScrollTrigger drives parallax image swaps while Framer Motion animates team spotlights and hover previews. React Router keeps the multi-page feel lightweight, and Tailwind 4 helps with rapid layout experimentation.
